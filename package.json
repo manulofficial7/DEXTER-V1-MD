@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "dexter-Md",
+    "manu-Md",
     "whatsapp",
     "whatsapp-bot",
-    "dexter"
+    "manul official"
   ],
-  "author": "dexter",
+  "author": "manul official",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
