@@ -131,7 +131,7 @@ _*𝐌𝐀𝐍𝐔-𝐌𝐃 VIDEO DOWNLOADING......*_\n\n`
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*DEXTER-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
