@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃✧────◆
+╭────✧𝐌𝐀𝐍𝐔-𝐌𝐃✧────◆
 │🌠 *Préfix* : ${s.PREFIXE}
 │🌠 *User* : ${s.OWNER_NAME}
 │🌠 *Mode* : ${mode}
@@ -40,7 +40,7 @@ const date = moment().format('DD/MM/YYYY');
 │🌠 *Time* : ${temps} 
 │🌠 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │🌠 *Platform* : ${os.platform()}
-│🌠 *Developer* : 𝐃𝐄𝐗𝐓𝐄𝐑
+│🌠 *Developer* : ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️
 │🌠 *Version* : 𝐯7.5.25
 ╰─────✧The-GOAT✧─────◆ \n\n`;
 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *📌DEXTER©🐐²0²⁴*                                         
+  *📌©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️²0²⁴*                                         
 *╰═════════════⊷*
 `;
 
