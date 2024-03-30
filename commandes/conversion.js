@@ -150,7 +150,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: Dexter-Md,
+            pack: Manu-Md,
             
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
@@ -186,7 +186,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: DEXTER-MD,
+            pack: MANU-MD,
             
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
@@ -252,7 +252,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'DEXTER-MD',
+      author: 'MANU-MD',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
