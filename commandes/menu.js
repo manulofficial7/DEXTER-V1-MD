@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let menuMsg=`  
 
-*DEXTER-MD COMMANDS :*
+*𝐌𝐀𝐍𝐔-𝐌𝐃 COMMANDS :*
 ◇                             ◇
 `;
 
